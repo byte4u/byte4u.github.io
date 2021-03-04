@@ -1,0 +1,46 @@
+/* 
+ 	@Author: Samadhi
+	@Date: 2021-03-04
+ */
+body{
+	margin: 0px;
+}
+header{
+	background-color:#4CAF50;
+}
+
+h1{
+	color: white;
+}
+
+#container{
+	padding:18px;
+}
+.w3-center{
+	text-align:center;
+}
+.w3-row-padding{
+	display:table;
+	clear:both;
+	/*padding:0 8px;*/
+}
+.w3-quarter{
+	float:left;
+	width:23%; /*23*/
+	padding:20px 8px; /*20px 8px;*/
+}
+p{
+	text-align: justify; 
+}
+h3{
+	text-align: left;
+}
+footer{
+	background-color:#4CAF50;
+	height: 40px;
+}
+.text-center{
+	text-align:center;
+	padding: 9px 0px 5px 0px;
+	color: white;
+}
